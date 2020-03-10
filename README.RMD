@@ -1,0 +1,15 @@
+---
+title: "Reproducible Data Analysis Framework Exercise"
+author: "Stanley"
+date: "9/3/2020"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Description
+
+This repository is an exercise from the course: R for Bio Data Science
+
